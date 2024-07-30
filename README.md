@@ -2,7 +2,7 @@
 En este repositorio se encontrará el caso práctico del módulo 2: Introducción al análisis de datos y Microsoft Excel.
 
 ## Finalidad del repositorio
-Realizar un análisis de la cantidad de transacciones y ventas de una tienda para obtener información útil para la toma de deciones. 
+Realizar un análisis de la cantidad de transacciones y ventas de la tienda para obtener información útil para la toma de deciones. 
 
 Se presentará informacion que explica las transacciones y ventas (en el archivo de excel) a través de segmentación de datos como categorías (belleza, electrónica y ropa), género y edad de los clientes para obtener hallazgos relevantes con relación a la demanda de los productos que se ofrecen en punto de venta. 
 
